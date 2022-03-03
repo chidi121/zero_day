@@ -1,1 +1,1 @@
-My 0x00-vagrant readme
+My vagrant readme
